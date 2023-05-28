@@ -1,4 +1,4 @@
-gjam-life  
+gjam-life  jam
 ---
 gamedev.tv 2023 game jam  
 ---
