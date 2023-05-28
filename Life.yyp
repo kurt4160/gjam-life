@@ -47,6 +47,7 @@
     {"id":{"name":"obj_button_hwss","path":"objects/obj_button_hwss/obj_button_hwss.yy",},},
     {"id":{"name":"predefinedObjects","path":"scripts/predefinedObjects/predefinedObjects.yy",},},
     {"id":{"name":"fnt_text","path":"fonts/fnt_text/fnt_text.yy",},},
+    {"id":{"name":"obj_button_clear","path":"objects/obj_button_clear/obj_button_clear.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"screenUpdate","path":"scripts/screenUpdate/screenUpdate.yy",},},
     {"id":{"name":"stateManagement","path":"scripts/stateManagement/stateManagement.yy",},},

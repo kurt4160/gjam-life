@@ -28,6 +28,7 @@
     {"name":"obj_button_hwss","order":2,"path":"objects/obj_button_hwss/obj_button_hwss.yy",},
     {"name":"predefinedObjects","order":2,"path":"scripts/predefinedObjects/predefinedObjects.yy",},
     {"name":"fnt_text","order":1,"path":"fonts/fnt_text/fnt_text.yy",},
+    {"name":"obj_button_clear","order":7,"path":"objects/obj_button_clear/obj_button_clear.yy",},
     {"name":"obj_button_parent","order":3,"path":"objects/obj_button_parent/obj_button_parent.yy",},
     {"name":"screenUpdate","order":1,"path":"scripts/screenUpdate/screenUpdate.yy",},
     {"name":"spr_button","order":1,"path":"sprites/spr_button/spr_button.yy",},
