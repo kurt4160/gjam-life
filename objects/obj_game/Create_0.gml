@@ -14,6 +14,7 @@ global.pause = true;							// pause the generation
 // color gradient to color the active cells
 global.gradient = [ #ff0000, #fc4000, #f65f00, #ee7800, #e38e00, #d5a100, #c6b400, #b3c400, #9ed400, #84e300, #60f12a, #00ff59 ];
 global.gradient_size = array_length(global.gradient); // size of the gradient
+global.add_pattern_object = 0;					// instance of the add pattern object
 
 game_set_speed(60, gamespeed_fps);
 
