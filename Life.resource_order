@@ -13,10 +13,10 @@
     {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"UI","order":1,"path":"folders/Sounds/UI.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"UI","order":1,"path":"folders/Sounds/UI.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_add_pattern","order":11,"path":"objects/obj_add_pattern/obj_add_pattern.yy",},
@@ -37,6 +37,7 @@
     {"name":"screenUpdate","order":1,"path":"scripts/screenUpdate/screenUpdate.yy",},
     {"name":"obj_button_help","order":8,"path":"objects/obj_button_help/obj_button_help.yy",},
     {"name":"rm_help","order":1,"path":"rooms/rm_help/rm_help.yy",},
+    {"name":"_globals_","order":3,"path":"scripts/_globals_/_globals_.yy",},
     {"name":"spr_button","order":1,"path":"sprites/spr_button/spr_button.yy",},
   ],
 }
