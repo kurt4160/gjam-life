@@ -2,7 +2,7 @@
 
 // Draws one cell. When visible with the gradient color, when not visible in black (background)
 // Each cell is a rounded rectangle with the size  global.cell_size
-function setVisibility(x, y, visibility)
+function setVisibility(x, y, visibility, age)
 {
 	// scale coordinates
 	var _x = x * global.cell_size;
@@ -10,7 +10,7 @@ function setVisibility(x, y, visibility)
 	// for speed lifecount in local variable
 	var _lifeCount = global.lifeCount[x, y];
 	// if not paused calculate life count 
-	if (!global.pause)
+	if (!global.pause && age)
 	{
 		// if still alive increment life count, otherwise set it to 0
 		_lifeCount = visibility ? _lifeCount + 1 : 0;
@@ -38,7 +38,7 @@ function update_grid()
 			// for speed visibility in local variable
 			var _visible = global.next_state[_x, _y];
 			if (_visible) _cell_count++;
-			setVisibility(_x, _y, _visible);
+			setVisibility(_x, _y, _visible, GAME_FRAME % GAME_SPEED == 0);
 		}
 	}	
 	global.cell_count = _cell_count;

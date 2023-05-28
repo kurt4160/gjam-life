@@ -1,7 +1,5 @@
 /// @description On this object the cells are drawn
 /// at every 60th step (2 seconds) a new generation is calculated
-// count steps
-var stepCount = 0;
 // only calculate new generation if not paused
 if (!global.pause)
 {
@@ -18,8 +16,8 @@ if (!global.pause)
 		}	
 		// new state becomes old state
 		copyState();
-		// wait 60 steps for next calculation
-		stepCount = 60;
+		// wait x steps for next calculation
+		stepCount = GAME_SPEED;
 		// count generations
 		global.generations++;
 	}
