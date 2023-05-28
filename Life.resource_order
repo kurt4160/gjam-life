@@ -21,9 +21,11 @@
   "ResourceOrderSettings": [
     {"name":"obj_add_pattern","order":11,"path":"objects/obj_add_pattern/obj_add_pattern.yy",},
     {"name":"obj_game","order":1,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"obj_docu","order":12,"path":"objects/obj_docu/obj_docu.yy",},
     {"name":"obj_cell","order":2,"path":"objects/obj_cell/obj_cell.yy",},
     {"name":"obj_button_random","order":6,"path":"objects/obj_button_random/obj_button_random.yy",},
     {"name":"obj_button_glider_gun","order":1,"path":"objects/obj_button_glider_gun/obj_button_glider_gun.yy",},
+    {"name":"spr_docu","order":2,"path":"sprites/spr_docu/spr_docu.yy",},
     {"name":"obj_button_pulsar","order":5,"path":"objects/obj_button_pulsar/obj_button_pulsar.yy",},
     {"name":"obj_button_ok","order":9,"path":"objects/obj_button_ok/obj_button_ok.yy",},
     {"name":"obj_button_pause","order":4,"path":"objects/obj_button_pause/obj_button_pause.yy",},

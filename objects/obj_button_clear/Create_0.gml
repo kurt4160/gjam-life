@@ -4,6 +4,7 @@ event_inherited();
 activate_button = function()
 {
 	global.pause = true;
+	global.generations = 0;
 	for (var _y = 0; _y < global.sizeY; _y++)
 	{
 		for (var _x = 0; _x < global.sizeY; _x++)

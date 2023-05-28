@@ -38,9 +38,11 @@
   "resources": [
     {"id":{"name":"obj_add_pattern","path":"objects/obj_add_pattern/obj_add_pattern.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
+    {"id":{"name":"obj_docu","path":"objects/obj_docu/obj_docu.yy",},},
     {"id":{"name":"obj_cell","path":"objects/obj_cell/obj_cell.yy",},},
     {"id":{"name":"obj_button_random","path":"objects/obj_button_random/obj_button_random.yy",},},
     {"id":{"name":"obj_button_glider_gun","path":"objects/obj_button_glider_gun/obj_button_glider_gun.yy",},},
+    {"id":{"name":"spr_docu","path":"sprites/spr_docu/spr_docu.yy",},},
     {"id":{"name":"obj_button_pulsar","path":"objects/obj_button_pulsar/obj_button_pulsar.yy",},},
     {"id":{"name":"obj_button_ok","path":"objects/obj_button_ok/obj_button_ok.yy",},},
     {"id":{"name":"fnt_button","path":"fonts/fnt_button/fnt_button.yy",},},

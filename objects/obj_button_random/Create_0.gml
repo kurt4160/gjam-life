@@ -8,6 +8,7 @@ activate_button = function()
 	if (instance_exists(global.add_pattern_object)) 
 		instance_destroy(global.add_pattern_object);
 	global.pause = true;
+	global.generations = 0;
 	// calculate new state for all cells
 	for (var _y = 0; _y < global.sizeY; _y++)
 	{
